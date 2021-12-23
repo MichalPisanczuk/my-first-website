@@ -1,0 +1,7 @@
+.navabar, .navbar-container {
+    float: right;
+}
+
+.navbar-item {
+    padding: 10px 10px;
+}
